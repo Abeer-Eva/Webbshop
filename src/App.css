@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #000611;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+nav{
+  float: end;
+}
+.menuSection{
+  margin-right: 2rem;
+  text-decoration: none;
+  color: antiquewhite;
+}
